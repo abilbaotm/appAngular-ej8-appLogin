@@ -1,3 +1,6 @@
+# IMPORTANTE
+Rellenar el fichero environments/environment.ts con las credenciales generadas en firebase
+
 # EJ08AppLogin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
